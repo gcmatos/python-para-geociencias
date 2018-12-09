@@ -1,13 +1,9 @@
 ---
 author:
-- |
     Gabriel Matos\
     `gcmatos@gmail.com`\
     Pesquisador UFPE \| Cientista de dados na Fu2re Smart Solutions
-date: |
-    10 a 12/12/2018\
-    Capítulo Estudantil AAPG - UFRJ
-title: |
+title:
     Programa do Curso:\
     Python para Geociências
 ---
