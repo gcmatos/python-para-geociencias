@@ -1,17 +1,14 @@
 ---
 author:
-    Gabriel Matos\
-    `gcmatos@gmail.com`\
-    Pesquisador UFPE \| Cientista de dados na Fu2re Smart Solutions
+    Gabriel Matos
+    `gcmatos@gmail.com`
+    Pesquisador UFPE e cientista de dados na Fu2re Smart Solutions
 title:
-    Programa do Curso:\
-    Python para Geociências
+    Programa do Curso Python para Geociências
 ---
+# Programa do Curso Python para Geociências
 
-\maketitle 
-Descrição do curso {#descrição-do-curso .unnumbered .unnumbered}
-==================
-
+# Descrição do curso
 A computação científica e a análise de dados têm passado por uma
 transformação nos últimos anos com o surgimento de tecnologias como
 *machine learning, cloud computing* e *big data analytics*. As
@@ -23,8 +20,7 @@ dados em Python e introduzir noções de programação através das
 principais ferramentas de código aberto e de uso livre (*Free and
 Open-source Softwares - FOSS*).
 
-Instrutor {#instrutor .unnumbered .unnumbered}
-=========
+# Instrutor
 
 Gabriel Matos é geólogo formado pela UFRJ, com mestrado em geologia
 estrutural e experiência em Geologia do Petróleo trabalhando no Centro
@@ -35,8 +31,7 @@ visão computacional e processamento de linguagem natural. Em paralelo,
 trabalha como pesquisador em projetos de P&D na UFPE participando de
 atividades de campo para aquisição de dados e treinamento.
 
-Público alvo {#público-alvo .unnumbered .unnumbered}
-============
+# Público alvo
 
 Estudantes de graduação e pós-graduação que queiram adquirir
 conhecimentos básicos de análise de dados de forma programática,
@@ -45,8 +40,7 @@ linguagem Python como Numpy, Scipy, Tensorflow, Pandas/Geopandas e
 ferramentas para visualização de dados como Matplotlib, Seaborn e
 Altair.
 
-Objetivos {#objetivos .unnumbered .unnumbered}
-=========
+# Objetivos
 
 -   Apresentar ao aluno uma introdução teórica à ciência de dados e a
     computação científica;
@@ -60,11 +54,9 @@ Objetivos {#objetivos .unnumbered .unnumbered}
 -   Mostrar ao aluno como criar uma análises em Python de forma
     colaborativa e apresentá-las de forma reprodutível e interativa em
     Jupyter/Colab notebooks.
+# Programa de aulas
 
-Programa de aulas {#programa-de-aulas .unnumbered .unnumbered}
-=================
-
--   10/12/2018
+-   Primeiro dia
 
     -   Introdução à ciência de dados
 
@@ -74,7 +66,7 @@ Programa de aulas {#programa-de-aulas .unnumbered .unnumbered}
 
     -   Objetos e estruturas de dados em Python
 
--   11/12/2018
+-   Segundo dia
 
     -   Introdução à análise exploratória de dados (EDA)
 
@@ -82,7 +74,7 @@ Programa de aulas {#programa-de-aulas .unnumbered .unnumbered}
 
     -   EDA - Registro de Terremotos de Magnitude $\geq$ 5.5 (USGS)
 
--   12/12/2018
+-   Terceiro dia
 
     -   Computação científica
 
@@ -93,8 +85,7 @@ Programa de aulas {#programa-de-aulas .unnumbered .unnumbered}
 
     -   Introdução a vetores, matrizes e tensores em Python (opcional)
 
-Prerrequisitos {#prerrequisitos .unnumbered .unnumbered}
-==============
+# Prerrequisitos
 
 -   Computador pessoal com acesso à internet
 
@@ -102,8 +93,7 @@ Prerrequisitos {#prerrequisitos .unnumbered .unnumbered}
 
 -   Conta Google (\@gmail.com) para utilizar o Google Sala de Aula
 
-Material {#material .unnumbered .unnumbered}
-========
+# Material
 
 -   Apresentações em PDF
 
@@ -111,36 +101,24 @@ Material {#material .unnumbered .unnumbered}
 
 -   Dados para análise
 
-Referências {#referências .unnumbered .unnumbered}
-===========
+# Referências
 
-6
+### Livros
 
-Livros {#livros .unnumbered .unnumbered}
-------
-
-\bibitem{book1}
 McKinney, W., 2017. Python for Data Analysis: Data Wrangling with
 Pandas, Numpy and IPython. O'Reilly, 2nd Edition.
 
-\bibitem{book2}
 Lutz, M., 2013. Learning Python. O'Reilly, 5th Edition.
 
-\bibitem{book3}
 VanderPlas, J. 2016. A Whirlwind Tour of Python. O'Reilly, First
 Edition.
 
-Web {#web .unnumbered .unnumbered}
----
+### Web
 
-\bibitem{web1}
 Numpy Library <http://www.numpy.org/>
 
-\bibitem{web2}
 Matplotlib Library <https://matplotlib.org/>
 
-\bibitem{web3}
 Pandas Library <https://pandas.pydata.org/>
 
-\bibitem{web4}
 Jupyter notebooks, <https://jupyter.org/>
