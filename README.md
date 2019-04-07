@@ -8,19 +8,10 @@ title:
 ---
 # Programa do Curso Python para Geociências
 
-# Descrição do curso
-A computação científica e a análise de dados têm passado por uma
-transformação nos últimos anos com o surgimento de tecnologias como
-*machine learning, cloud computing* e *big data analytics*. As
-motivações para montar este curso de curta duração são apresentar ao
-aluno um breve histórico do desenvolvimento científico computacional que
-estamos vivenciando atualmente. O objetivo principal desta iniciativa é
-mostrar como trazer benefícios para geociências a partir da análise de
-dados em Python e introduzir noções de programação através das
-principais ferramentas de código aberto e de uso livre (*Free and
-Open-source Softwares - FOSS*).
+## Descrição do curso
+A computação científica e a análise de dados têm passado por uma transformação nos últimos anos com o surgimento de tecnologias como *machine learning, cloud computing* e *big data analytics*. As motivações para montar este curso de curta duração são apresentar ao aluno um breve histórico do desenvolvimento científico computacional que estamos vivenciando atualmente. O objetivo principal desta iniciativa é mostrar como trazer benefícios para geociências a partir da análise de dados em Python e introduzir noções de programação através das principais ferramentas de código aberto e de uso livre (*Free and Open-source Softwares - FOSS*).
 
-# Instrutor
+## Instrutor
 
 Gabriel Matos é geólogo formado pela UFRJ, com mestrado em geologia
 estrutural e experiência em Geologia do Petróleo trabalhando no Centro
@@ -31,7 +22,7 @@ visão computacional e processamento de linguagem natural. Em paralelo,
 trabalha como pesquisador em projetos de P&D na UFPE participando de
 atividades de campo para aquisição de dados e treinamento.
 
-# Público alvo
+## Público alvo
 
 Estudantes de graduação e pós-graduação que queiram adquirir
 conhecimentos básicos de análise de dados de forma programática,
@@ -40,7 +31,7 @@ linguagem Python como Numpy, Scipy, Tensorflow, Pandas/Geopandas e
 ferramentas para visualização de dados como Matplotlib, Seaborn e
 Altair.
 
-# Objetivos
+## Objetivos
 
 -   Apresentar ao aluno uma introdução teórica à ciência de dados e a
     computação científica;
@@ -54,9 +45,9 @@ Altair.
 -   Mostrar ao aluno como criar uma análises em Python de forma
     colaborativa e apresentá-las de forma reprodutível e interativa em
     Jupyter/Colab notebooks.
-# Programa de aulas
+## Programa de aulas
 
-## Primeiro dia
+### Primeiro dia
 
     -   Introdução à ciência de dados
 
@@ -66,7 +57,7 @@ Altair.
 
     -   Objetos e estruturas de dados em Python
 
-## Segundo dia
+### Segundo dia
 
     -   Introdução à análise exploratória de dados (EDA)
 
@@ -74,7 +65,7 @@ Altair.
 
     -   EDA - Registro de Terremotos de Magnitude $\geq$ 5.5 (USGS)
 
-## Terceiro dia
+### Terceiro dia
 
     -   Computação científica
 
@@ -85,7 +76,7 @@ Altair.
 
     -   Introdução a vetores, matrizes e tensores em Python (opcional)
 
-# Prerrequisitos
+## Prerrequisitos
 
 -   Computador pessoal com acesso à internet
 
@@ -93,7 +84,7 @@ Altair.
 
 -   Conta Google (\@gmail.com) para utilizar o Google Sala de Aula
 
-# Material
+## Material
 
 -   Apresentações em PDF
 
@@ -101,9 +92,9 @@ Altair.
 
 -   Dados para análise
 
-# Referências
+## Referências
 
-## Livros
+### Livros
 
 McKinney, W., 2017. Python for Data Analysis: Data Wrangling with
 Pandas, Numpy and IPython. O'Reilly, 2nd Edition.
@@ -113,7 +104,7 @@ Lutz, M., 2013. Learning Python. O'Reilly, 5th Edition.
 VanderPlas, J. 2016. A Whirlwind Tour of Python. O'Reilly, First
 Edition.
 
-## Web
+### Web
 
 Numpy Library <http://www.numpy.org/>
 
