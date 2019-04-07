@@ -6,9 +6,11 @@ author:
 title:
     Programa do Curso Python para Geociências
 ---
+
 # Programa do Curso Python para Geociências
 
 ## Descrição do curso
+
 A computação científica e a análise de dados têm passado por uma transformação nos últimos anos com o surgimento de tecnologias como *machine learning, cloud computing* e *big data analytics*. As motivações para montar este curso de curta duração são apresentar ao aluno um breve histórico do desenvolvimento científico computacional que estamos vivenciando atualmente. O objetivo principal desta iniciativa é mostrar como trazer benefícios para geociências a partir da análise de dados em Python e introduzir noções de programação através das principais ferramentas de código aberto e de uso livre (*Free and Open-source Softwares - FOSS*).
 
 ## Instrutor
@@ -33,64 +35,65 @@ Altair.
 
 ## Objetivos
 
--   Apresentar ao aluno uma introdução teórica à ciência de dados e a
+- Apresentar ao aluno uma introdução teórica à ciência de dados e a
     computação científica;
 
--   Ensinar a configurar um ambiente Python para análise de dados;
+- Ensinar a configurar um ambiente Python para análise de dados;
 
--   Abordar de forma prática a estrutura de dados em Python;
+- Abordar de forma prática a estrutura de dados em Python;
 
--   Apresentar ao aluno uma introdução à Análise Exploratória de Dados;
+- Apresentar ao aluno uma introdução à Análise Exploratória de Dados;
 
--   Mostrar ao aluno como criar uma análises em Python de forma
+- Mostrar ao aluno como criar uma análises em Python de forma
     colaborativa e apresentá-las de forma reprodutível e interativa em
     Jupyter/Colab notebooks.
+
 ## Programa de aulas
 
 ### Primeiro dia
 
-    -   Introdução à ciência de dados
+- Introdução à ciência de dados
 
-    -   Primeiros passos no Jupyter/Colab notebook
+- Primeiros passos no Jupyter/Colab notebook
 
-    -   Primeiros passos com a linguagem Python 3.x
+- Primeiros passos com a linguagem Python 3.x
 
-    -   Objetos e estruturas de dados em Python
+- Objetos e estruturas de dados em Python
 
 ### Segundo dia
 
-    -   Introdução à análise exploratória de dados (EDA)
+- Introdução à análise exploratória de dados (EDA)
 
-    -   Importação e visualização de dados
+- Importação e visualização de dados
 
-    -   EDA - Registro de Terremotos de Magnitude $\geq$ 5.5 (USGS)
+- EDA - Registro de Terremotos de Magnitude $\geq$ 5.5 (USGS)
 
 ### Terceiro dia
 
-    -   Computação científica
+- Computação científica
 
-    -   Limpeza e transformação de dados
+- Limpeza e transformação de dados
 
-    -   Erupções Vulcânicas do Holoceno (Smithsonian's Global Volcanism
+- Erupções Vulcânicas do Holoceno (Smithsonian's Global Volcanism
         Program)
 
-    -   Introdução a vetores, matrizes e tensores em Python (opcional)
+- Introdução a vetores, matrizes e tensores em Python (opcional)
 
 ## Prerrequisitos
 
--   Computador pessoal com acesso à internet
+- Computador pessoal com acesso à internet
 
--   Navegador Chrome
+- Navegador Chrome
 
--   Conta Google (\@gmail.com) para utilizar o Google Sala de Aula
+- Conta Google (\@gmail.com) para utilizar o Google Sala de Aula
 
 ## Material
 
--   Apresentações em PDF
+- Apresentações em PDF
 
--   Tutoriais em Colab notebooks (.ipynb)
+- Tutoriais em Colab notebooks (.ipynb)
 
--   Dados para análise
+- Dados para análise
 
 ## Referências
 
