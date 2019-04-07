@@ -56,7 +56,7 @@ Altair.
     Jupyter/Colab notebooks.
 # Programa de aulas
 
--   Primeiro dia
+## Primeiro dia
 
     -   Introdução à ciência de dados
 
@@ -66,7 +66,7 @@ Altair.
 
     -   Objetos e estruturas de dados em Python
 
--   Segundo dia
+## Segundo dia
 
     -   Introdução à análise exploratória de dados (EDA)
 
@@ -74,7 +74,7 @@ Altair.
 
     -   EDA - Registro de Terremotos de Magnitude $\geq$ 5.5 (USGS)
 
--   Terceiro dia
+## Terceiro dia
 
     -   Computação científica
 
@@ -103,7 +103,7 @@ Altair.
 
 # Referências
 
-### Livros
+## Livros
 
 McKinney, W., 2017. Python for Data Analysis: Data Wrangling with
 Pandas, Numpy and IPython. O'Reilly, 2nd Edition.
@@ -113,7 +113,7 @@ Lutz, M., 2013. Learning Python. O'Reilly, 5th Edition.
 VanderPlas, J. 2016. A Whirlwind Tour of Python. O'Reilly, First
 Edition.
 
-### Web
+## Web
 
 Numpy Library <http://www.numpy.org/>
 
